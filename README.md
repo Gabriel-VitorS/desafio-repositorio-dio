@@ -2,8 +2,6 @@
 
 Receita do melhor bolo do mundo: Brownie
 
-<img src=https://img.estadao.com.br/fotos/crop/1200x1200/resources/jpg/7/0/1519841184607.jpg" style="zoom:15%;" />
-
 ### Ingredientes:
 
 - 6 colheres (sopa) bem cheias, de margarina sem sal
